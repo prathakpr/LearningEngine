@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"D:\\UnrealProjects\\LearningEngine\\Source\\LearningEngine\\LearningEngine.Build.cs",
-		"D:\\UnrealProjects\\LearningEngine\\Source\\LearningEngine.Target.cs",
-		"D:\\UnrealProjects\\LearningEngine\\Source\\LearningEngineEditor.Target.cs"
+		"I:\\Pulkits Files\\Pulkits Special\\Leo_LCU_Game-Check\\Leo_LCU_Game-Check\\Source\\LearningEngine\\LearningEngine.Build.cs",
+		"I:\\Pulkits Files\\Pulkits Special\\Leo_LCU_Game-Check\\Leo_LCU_Game-Check\\Source\\LearningEngine.Target.cs",
+		"I:\\Pulkits Files\\Pulkits Special\\Leo_LCU_Game-Check\\Leo_LCU_Game-Check\\Source\\LearningEngineEditor.Target.cs"
 	],
 	"EngineVersion": "5.3.2"
 }

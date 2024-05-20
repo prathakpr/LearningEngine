@@ -13,7 +13,6 @@
     </None>
     <None Include="..\..\.gitattributes" />
     <None Include="..\..\.gitignore" />
-    <None Include="..\..\.vsconfig" />
     <None Include="..\..\README.md" />
     <None Include="..\..\Screenshot (69).png" />
     <Filter Include="Config">
@@ -82,6 +81,9 @@
     <Filter Include="Source\LearningEngine\Public\Characters">
       <UniqueIdentifier>{3002AC94-CE42-33D9-AA43-2392BCDE337D}</UniqueIdentifier>
     </Filter>
+    <ClInclude Include="..\..\Source\LearningEngine\Public\Characters\CharacterTypes.h">
+      <Filter>Source\LearningEngine\Public\Characters</Filter>
+    </ClInclude>
     <ClInclude Include="..\..\Source\LearningEngine\Public\Characters\MyCharacter.h">
       <Filter>Source\LearningEngine\Public\Characters</Filter>
     </ClInclude>
@@ -105,11 +107,6 @@
     </Filter>
     <ClInclude Include="..\..\Source\LearningEngine\Public\Pawn\Bird.h">
       <Filter>Source\LearningEngine\Public\Pawn</Filter>
-    </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="..\..\Source\LearningEngine\Public\Characters\CharacterTypes.h">
-      <Filter>Source\LearningEngine\Public\Characters</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
